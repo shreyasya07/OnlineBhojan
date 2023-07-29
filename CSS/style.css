@@ -67,7 +67,7 @@ html{
 }
 #home::before{
     content: "";
-    background: url(Images/BG-1.jpg) no-repeat center center/cover;
+    background: url(../Images/BG-1.jpg) no-repeat center center/cover;
     position: absolute;
     top: 0px;
     height: 430px;
@@ -126,7 +126,7 @@ html{
 }
 #clients-section::before{
     content: "";
-    background: url(Images/Clients.jpg) no-repeat center center/cover;
+    background: url(../Images/Clients.jpg) no-repeat center center/cover;
     position: absolute;
     /* background-size: 100vw 60vh; */
     width: 100%;
